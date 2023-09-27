@@ -19,7 +19,7 @@ Hi! My name is Zhian Chen or you are welcome to call me Andy. I have recently re
 
 For the workflow, I first pulled the assignment from Github with the gitclone command after setting my directory for the course. Then, I followed the instructions within the assignment by editing the README markdone file. Lastly, I used the git add, git commit, and git push commands to push the edited file to the Github repo.
 
-Most of my experience with Github and Markdown is from R Studio. The interface of Github in R Studio is quite straightforward and pushing or pulling files does not require any commands. Therefore, writing commands for pushing and pulling files from Github in the terminal of VS Code is new to me. 
+Most of my experience with Github and Markdown is from R Studio. The interface of Github in R Studio is quite straightforward and pushing or pulling files does not require any commands. Therefore, writing commands for pushing and pulling files from Github in the terminal of VS Code is new to me. Moreover, I initally thought Markdown file is only used in R Studio. Apparently, it is a file format that can be used in different programs (if I understand correctly). 
 
 
 ## 📚  Resources 
