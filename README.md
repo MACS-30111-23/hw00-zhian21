@@ -3,7 +3,7 @@
 
 ## Bio
 
-Hi! My name is Zhian Chen or you are welcome to call me Andy. I have recently received my first master's degree at UC Santa Barbara. My research areas are norm (mis)perception and parental investment in humans. As many of you may have noticed, I have a service dog and his name is **Oolong tea**. However, what you may not know is that Oolong tea has a feline sister and her name is *Dengdeng*. ![](Oolong_and_Dengdeng.png)
+Hi! My name is Zhian Chen or you are welcome to call me Andy. I have recently received my first master's degree from UC Santa Barbara. My research areas are norm (mis)perception and parental investment in humans. As many of you may have noticed, I have a service dog and his name is **Oolong tea**. However, what you may not know is that Oolong tea has a feline sister and her name is *Dengdeng*. ![](Oolong_and_Dengdeng.png)
 
 ## Three random/fun things about me 
 
